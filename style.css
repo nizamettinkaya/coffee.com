@@ -53,6 +53,12 @@
                             align-items: center;
                             justify-content: space-between;
                             padding: 40px 0;
+                            cursor: pointer;
+                        }
+                        
+                        .header-menu ul li:hover {
+                            text-decoration: underline;
+                            color: brown;
                         }
                         
                         .header-logo {
